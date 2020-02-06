@@ -4,7 +4,7 @@
 
 Summary:	A manager that supports multiple logins on one terminal
 Name:		screen
-Version:	4.7.0
+Version:	4.8.0
 Release:	1
 License:	GPLv2+
 Group:		Terminals
